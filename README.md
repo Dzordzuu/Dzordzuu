@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🥷 I'm Michael, below you can see some of my projects. 
+🥷 I'm Michal, below you can see some of my projects. 
 <!--
 **Dzordzuu/Dzordzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
